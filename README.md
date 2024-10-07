@@ -23,6 +23,19 @@ cd ..
 
 ## Dependencies
 
+This code requires the following Python packages to be installed:
+
+- `scipy`
+- `torch`
+- `h5py`
+- `pycocotools`
+
+Make sure to install these dependencies before running the code. You can install them using `pip` by running the following command:
+
+```bash
+pip install scipy torch h5py pycocotools
+```
+
 This code is derived from [detectron2](https://github.com/facebookresearch/detectron2/tree/main). Please see the `NOTICE` file for additional details.
 
 ---
