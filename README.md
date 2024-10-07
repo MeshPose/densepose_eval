@@ -8,7 +8,7 @@ This repository provides all the necessary code to evaluate DensePose metrics on
 
 ## Installation
 
-To use this repository, first clone it as a submodule into your project.
+To use this repository, clone it as a submodule into your project.
 
 ## Prerequisites
 
